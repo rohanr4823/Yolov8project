@@ -1,6 +1,6 @@
 # Object Detection using YOLOv8
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8d1b98d9-710f-4a65-a556-7a76a509cc04" />
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/8d1b98d9-710f-4a65-a556-7a76a509cc04" />
 
 
 This project uses YOLOv8 for real-time ship detection. The model processes live video streams or webcam input and identifies ships instantly by drawing bounding boxes around them.
