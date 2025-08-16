@@ -18,7 +18,8 @@ Visualization – Detected ships are displayed in real time with labels and conf
 Output – The processed video stream shows detected ships live, making it useful for maritime surveillance and monitoring.
 
 <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/21a651bc-fa0a-4b44-a5bc-1453751f2e25" />
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/08ff6174-5dd5-45e0-b27a-387f0eaf16d0" />
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/ccbfe112-5ac8-4077-8c2d-097e080ff32e" />
+
 
 
 
